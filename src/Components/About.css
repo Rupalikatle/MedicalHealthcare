@@ -1,0 +1,24 @@
+img{
+    display: inline-block;
+    align-items: center;
+    width: 30%;
+    border-radius: 15px;
+    gap: 2px;
+    margin: 20px 20px;
+}
+.para{
+    width: 70%;
+   display: flex;
+   align-items: center;
+   text-align: justify;
+   font-size: 20px;
+   margin-left: 12%;
+}
+.heading_1{
+    margin: 7 35%;
+    align-items: center;
+    text-align: center;
+    margin-left: 37%;
+    font-family: italic;
+
+}

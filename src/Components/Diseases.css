@@ -1,0 +1,17 @@
+h1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 3% 29%;
+}
+.image_1{
+    margin-left: 35%;
+}
+.p{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+   margin-left: 25%;
+   font-size: 18px;
+}

@@ -1,0 +1,22 @@
+.f-1{
+    text-align: center;
+    color: rgb(239, 231, 231);
+    background: black;
+    padding: 60px 10px;
+    height: 400px;
+    width: 100;
+    align-items: center;
+    margin-left: 2px;
+    margin-top: 40px;
+}
+.icon-1{
+    width: 25px;
+    display: inline;
+    margin-right: 2px;
+    margin-left: 50px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    text-align:center; 
+    align-items: center;
+   list-style-type: none;
+}
